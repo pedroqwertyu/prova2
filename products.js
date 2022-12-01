@@ -29,5 +29,9 @@ function listar() {
     })
 }
 
+function listar_por_categoria(categoria) {
+    
+}
+
 
 
