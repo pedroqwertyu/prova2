@@ -29,5 +29,13 @@ function listar() {
     })
 }
 
+function listar_por_categoria(categoria) {
+    
+}
 
+function listar_por_valor(valor_minimo, valor_maximo) {
+    produtos.forEach(valores => {
+        console.log(valores)
+    })
+}
 
